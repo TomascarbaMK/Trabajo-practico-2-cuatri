@@ -1,2 +1,2 @@
 # Trabajo-practico-2-cuatri
-El trabajo esat incompleto
+El trabajo esta incompleto
